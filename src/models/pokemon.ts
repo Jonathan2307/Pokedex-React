@@ -13,8 +13,8 @@ export default class Pokemon {
      id: number,
      hp: number = 100,
      cp: number = 10,
-     name: string = 'name',
-     picture: string = 'http://...',
+     name: string = '...',
+     picture: string = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/xxx.png',
      types: Array<string> = ['Normal'],
      created: Date = new Date()
     ) {
