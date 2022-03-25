@@ -23,7 +23,7 @@
     },
     {
       "id": 3,
-      "name": "Carapuce",
+      "name": "Carapupuce",
       "hp": 21,
       "cp": 4,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png",
@@ -125,17 +125,6 @@
       ]
     },
     {
-      "id": 1648218225478,
-      "hp": 100,
-      "cp": 10,
-      "name": "test",
-      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
-      "types": [
-        "Normal",
-        "Insecte"
-      ]
-    },
-    {
       "id": 1648218380516,
       "hp": 100,
       "cp": 10,
@@ -154,6 +143,84 @@
       "types": [
         "Normal",
         "Vol"
+      ]
+    },
+    {
+      "id": 1648222859147,
+      "hp": 100,
+      "cp": 10,
+      "name": "Lea",
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+      "types": [
+        "Normal",
+        "Plante"
+      ]
+    },
+    {
+      "id": 1648222914506,
+      "hp": 100,
+      "cp": 10,
+      "name": "Johanna",
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
+      "types": [
+        "Poison",
+        "Fée"
+      ]
+    },
+    {
+      "id": 1648222979354,
+      "hp": 100,
+      "cp": 10,
+      "name": "pop",
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png",
+      "types": [
+        "Normal"
+      ]
+    },
+    {
+      "id": 1648230243537,
+      "hp": 100,
+      "cp": 10,
+      "name": "Elouann",
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+      "types": [
+        "Normal",
+        "Psy",
+        "Combat"
+      ]
+    },
+    {
+      "id": 1648230336336,
+      "hp": 100,
+      "cp": 10,
+      "name": "Valentin",
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+      "types": [
+        "Normal",
+        "Plante",
+        "Feu"
+      ]
+    },
+    {
+      "id": 1648249404957,
+      "hp": 100,
+      "cp": 10,
+      "name": "test",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/250.png",
+      "types": [
+        "Normal",
+        "Feu"
+      ]
+    },
+    {
+      "id": 1648249424781,
+      "hp": 100,
+      "cp": 10,
+      "name": "retest",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/452.png",
+      "types": [
+        "Normal",
+        "Eau"
       ]
     }
   ]

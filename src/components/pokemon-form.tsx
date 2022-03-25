@@ -75,7 +75,7 @@ const PokemonForm: FunctionComponent<Props> = ({pokemon, isEditForm}) => {
     // Validator url
     if(isAddForm()) {
 
-      const start = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/";
+      const start = "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/";
       const end = ".png";
 
       if(!form.picture.value.startsWith(start) || !form.picture.value.endsWith(end)) {
