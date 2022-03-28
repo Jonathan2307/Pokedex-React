@@ -1,14 +1,12 @@
 export default class Pokemon {
-    // 1. Typage des propiétés d'un pokémon.
     id: number;
     hp: number;
     cp: number;
     name: string;
     picture: string;
     types: Array<string>;
-    created?: Date;
-     
-    // 2. Définition des valeurs par défaut des propriétés d'un pokémon.
+    created: Date;
+    
     constructor(
      id: number,
      hp: number = 100,
@@ -18,7 +16,6 @@ export default class Pokemon {
      types: Array<string> = ['Normal'],
      created: Date = new Date()
     ) {
-     // 3. Initialisation des propiétés d'un pokémons.
      this.id = id;
      this.hp = hp;
      this.cp = cp;
